@@ -1346,9 +1346,10 @@
 <dust_emis_fact dyn="fv"                   phys="cam5"   clubb_sgs="1"    >0.22D0</dust_emis_fact>
 <dust_emis_fact dyn="se"                   phys="cam6"                    >0.55D0</dust_emis_fact>
 <dust_emis_fact dyn="fv"                   phys="cam6"                    >0.70D0</dust_emis_fact>
+<dust_emis_fact dyn="fv" hgrid="1.9x2.5"   phys="cam6"                    >0.55D0</dust_emis_fact>
 <dust_emis_fact dyn="fv"                   phys="spcam_m2005" spcam_clubb_sgs="1"    >0.13D0</dust_emis_fact>
 
-<dust_emis_fact hgrid="1.9x2.5"                   phys="cam6" ver="chem">0.55D0</dust_emis_fact>
+<dust_emis_fact hgrid="1.9x2.5"                   phys="cam6" ver="chem">0.26D0</dust_emis_fact>
 <dust_emis_fact hgrid="0.9x1.25"                  phys="cam6" ver="chem">0.7D0</dust_emis_fact>
 <dust_emis_fact hgrid="1.9x2.5"   offline_dyn="1" phys="cam6" ver="chem">0.24D0</dust_emis_fact>
 <dust_emis_fact hgrid="0.47x0.63" offline_dyn="1" phys="cam6" ver="chem">0.9D0</dust_emis_fact>
